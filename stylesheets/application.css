@@ -674,6 +674,9 @@ table.list_issues {
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px
 }
+#content table {
+	width: 99%
+	}	
 .author {
 	font-size:11px;
 	margin-bottom:10px
